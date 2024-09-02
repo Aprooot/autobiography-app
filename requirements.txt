@@ -1,1 +1,1 @@
-streamlit_extras==1.16.0
+streamlit_extras==1.38.0
