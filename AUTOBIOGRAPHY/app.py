@@ -76,7 +76,7 @@ with tab2:
             }   
             """,
         ):
-            st.image("./images/grad1.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/grad1.jpg", width=300)
             
     with col4:
         st.markdown("**JUNIOR HIGH SCHOOL**")
@@ -99,7 +99,7 @@ with tab2:
             }   
             """,
         ):
-            st.image("./images/grad2.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/grad2.jpg", width=300)
 
     with col7:
         with stylable_container(
@@ -150,7 +150,7 @@ with tab3:
             }   
             """,
         ):
-            st.image("./images/fam1.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/fam1.jpg", width=300)
             
     with col2:
         st.markdown("This is my big family.")
@@ -171,7 +171,7 @@ with tab3:
             css_styles="""      
             """,
         ):
-            st.image("./images/cous.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/cous.jpg", width=300)
 
 with tab4:
     st.header("Interests")
@@ -184,9 +184,9 @@ with tab4:
             css_styles=""" 
             """,
         ):
-            st.image("./images/hike.jpg", width=300)
-            st.image("./images/food8.jpg", width=300)
-            st.image("./images/luigi.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/hike.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/food8.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/luigi.jpg", width=300)
             
     with col2:
         with stylable_container(
@@ -194,9 +194,9 @@ with tab4:
             css_styles="""
             """,
         ):
-            st.image("./images/travel3.jpg", width=300)
-            st.image("./images/travel2.jpg", width=300)
-            st.image("./images/food5.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/travel3.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/travel2.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/food5.jpg", width=300)
 
     with stylable_container(
         key = "con",
@@ -231,9 +231,9 @@ with tab5:
         }        
         """,
     ):
-        st.image("./images/work1.png", width=700)
-        st.image("./images/work2.png", width=700)
-        st.image("./images/work3.png", width=700)
+        st.image("./AUTOBIOGRAPHY/images/work1.png", width=700)
+        st.image("./AUTOBIOGRAPHY/images/work2.png", width=700)
+        st.image("./AUTOBIOGRAPHY/images/work3.png", width=700)
 
 with tab6:
     st.header("Certifications")
@@ -248,10 +248,10 @@ with tab6:
         }        
         """,
     ):
-        st.image("./images/cert1.jpg", width=700)
-        st.image("./images/cert2.jpg", width=700)
-        st.image("./images/cert3.jpg", width=700)
-        st.image("./images/cert4.png", width=700)
-        st.image("./images/cert5.png", width=700)
-        st.image("./images/cert6.png", width=700)
-        st.image("./images/cert7.png", width=700)
+        st.image("./AUTOBIOGRAPHY/images/cert1.jpg", width=700)
+        st.image("./AUTOBIOGRAPHY/images/cert2.jpg", width=700)
+        st.image("./AUTOBIOGRAPHY/images/cert3.jpg", width=700)
+        st.image("./AUTOBIOGRAPHY/images/cert4.png", width=700)
+        st.image("./AUTOBIOGRAPHY/images/cert5.png", width=700)
+        st.image("./AUTOBIOGRAPHY/images/cert6.png", width=700)
+        st.image("./AUTOBIOGRAPHY/images/cert7.png", width=700)
