@@ -19,7 +19,7 @@ with tab1:
             }        
             """,
         ):
-            st.image("/images/me1.jpg", width=300)
+            st.image("../images/me1.jpg", width=300)
 
     with col2:
         st.markdown("Hello, everyone! I'm ***April Gem M. Jagmoc***. Yes, you guessed it right! I was born on the month of April which was the 4th Friday of April in the year 2002 (April 26, 2002). No, I don't have a sibling named May, June, or July. In fact, I'm the only child my parents named after their child's birth month.") 
