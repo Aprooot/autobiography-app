@@ -99,7 +99,7 @@ with tab2:
             }   
             """,
         ):
-            st.image("./AUTOBIOGRAPHY/images/grad2.jpg", width=300)
+            st.image("./AUTOBIOGRAPHY/images/grad2.JPG", width=300)
 
     with col7:
         with stylable_container(
